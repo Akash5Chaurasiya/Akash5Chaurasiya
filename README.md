@@ -92,9 +92,6 @@ Passionate about web development
 <div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akash5Chaurasiya" alt="Akash5Chaurasiya" /></a> </p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash5Chaurasiya&theme=blue-green&hide_border=true" alt="Akash5Chaurasiya" />
-
-<img src="https://streak-stats.demolab.com/?user=rajesh890-bit&theme=github-dark"
-    alt="stats" /></a>
  
 
 </div >
