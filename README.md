@@ -24,12 +24,24 @@ Passionate about web development
  <br />
 
 <div align="center">
-
-<h2 align="center">📱 Connect With Me </h2>
-<br/>
-<div align="center"><a  href="https://www.linkedin.com/in/akash-chaurasiya-4891021bb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div
+  <h2> Connect with me ⬇️</h2>
+<a href="https://github.com/Akash5Chaurasiya" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/akash-chaurasiya-4891021bb/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>
+ <br/>
+  <br/>
+<div align="center">
+  <h2> Checkout my Portfolio ⬇️</h2>
+  <a href="https://Akash5Chaurasiya.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+  </a>
+  <br/>
+</div>
+
 <br/>
  <br/>
 <h2 align="center">🚀 Languages and Tools: </h2>
