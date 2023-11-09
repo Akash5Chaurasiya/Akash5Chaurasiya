@@ -16,7 +16,7 @@ Passionate about web development
  🌱 I have hands-on experience with MERN Stack.<br><br>
  👯 I’m looking forward to contribute to some good projects  ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1PVhILnxFczTD3b-8juIuhKjzksqVXQPp/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://akash5chaurasiya.github.io">Portfolio</a><br><br>
+ 📫  Know more about me <a href="https://akash5chaurasiya.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Akash5Chaurasiya?tab=repositories">My Github Repositories</a><br><br> 
  ⚡ How to reach me chaurasiyaakash001@gmail.com
